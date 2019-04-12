@@ -1,0 +1,11 @@
+controller_list:
+  - name: fake_arm_controller
+    joints:
+      - j2n4s200_joint_1
+      - j2n4s200_joint_2
+      - j2n4s200_joint_3
+      - j2n4s200_joint_4
+  - name: fake_gripper_controller
+    joints:
+      - j2n4s200_joint_finger_1
+      - j2n4s200_joint_finger_2
